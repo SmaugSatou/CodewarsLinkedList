@@ -2,7 +2,9 @@
 Solution
 """
 
-def stringify(node):
+from node import Node
+
+def stringify(node: Node) -> str:
     """ Converts a linked list to a string
     """
 
