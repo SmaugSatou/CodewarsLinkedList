@@ -4,7 +4,8 @@ Solution
 
 def stringify(node):
     """ Converts a linked list to a string
-    """ 
+    """
+
     result = ""
 
     while node:
